@@ -21,7 +21,7 @@ window.live2d_settings = Array(); /*
 
 // 后端接口
 live2d_settings['modelAPI']             = '//live2d.fghrsh.net/api/';   // 自建 API 修改这里
-live2d_settings['tipsMessage']          = 'waifu-tips.json';            // 同目录下可省略路径
+live2d_settings['tipsMessage']          = 'https://cdn.jsdelivr.net/gh/MKJ-TMZ/live2d-1.09/assets/waifu-tips.json';            // 同目录下可省略路径
 live2d_settings['hitokotoAPI']          = 'hitokoto.cn';                  // 一言 API，可选 'lwl12.com', 'hitokoto.cn', 'jinrishici.com'(古诗词)
 
 // 默认模型
